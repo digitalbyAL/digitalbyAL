@@ -89,10 +89,12 @@ Mengubah setiap **ide kreatif** menjadi **solusi digital** yang powerful dan mod
 
 <div align="center">
 
-```typescript
-const whyChooseUs = {
-  experience: "Berpengalaman dalam modern web tech",
-  quality: "Code berkualitas & mudah di-maintain",
-  support: "Siap membantu dari konsep hingga deployment",
-  commitment: "Dedikasi penuh untuk kesuksesan project Anda"
-}
+| 🎓 **Experience** | 💎 **Quality** | 🤝 **Support** | ✨ **Commitment** |
+|:---:|:---:|:---:|:---:|
+| Berpengalaman dalam modern web tech | Code berkualitas & mudah di-maintain | Siap membantu dari konsep hingga deployment | Dedikasi penuh untuk kesuksesan project Anda |
+
+<br>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
+</div>
